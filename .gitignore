@@ -1,0 +1,4 @@
+letsencrypt-config/
+letsencrypt-work/
+letsencrypt-logs/
+.env
